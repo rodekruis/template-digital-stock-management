@@ -119,6 +119,3 @@ In the Power BI workspace:
 
 3. The dashboard's queries will perform all set calculation and visualise automatically.
 
-For more in-depth guides for specific scenarios, see the Guides section.
-
----
